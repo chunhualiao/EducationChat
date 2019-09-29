@@ -1,20 +1,3 @@
-<!----- Conversion time: 2.656 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β17
-* Sat Aug 31 2019 09:38:59 GMT-0700 (PDT)
-* Source doc: https://docs.google.com/open?id=1KKIxQaebYlpjku8jrjWwQ5TFFQEM7hUvRaE__dJy068
------>
-
 
 **和家人朋友闲聊教育**
 
