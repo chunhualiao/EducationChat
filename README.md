@@ -13,8 +13,6 @@
 
 <span style="text-decoration:underline;">版权</span>：公共版权，欢迎转发。
 
-<span style="text-decoration:underline;">最后一点</span>：我这辈子最佩服两个人：第一个是任正非，从零开始把华为搞成美帝都怕的巨无霸跨国企业。第二个是我自己，穷得叮当响，还这么关心天下事[呲牙]
-
 --- C. Liao
 
 **敢于向他人请教**
