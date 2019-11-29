@@ -365,7 +365,7 @@ the process of receiving or giving systematic instruction, especially at a schoo
 
 美国国家培训实验室（National Training Laboratories）1960年左右搞了个学习金字塔（Learning Pyramid）试图把不同学习法的记忆保持效果归类。这个金字塔的样子如下：
 
-![alt_text](images/2019-11-29-Education-Chat-Liao0.png "image_tooltip")
+![alt_text](images/cone_of_learning.png "image_tooltip")
 
 
 图片来源： [https://en.wikipedia.org/wiki/Learning_pyramid](https://en.wikipedia.org/wiki/Learning_pyramid)
@@ -647,7 +647,7 @@ TODO： decision tree , decision matrix,
 
 任何描述人的一对意义相反的形容词可以帮助定义一个维度，人群在这个维度上是正态分布，大部分人是在中间，极少数在两端。
 
-![alt_text](images/2019-11-29-Education-Chat-Liao1.png "image_tooltip")
+![alt_text](images/Standard_deviation_diagram.svg.png "image_tooltip")
 
 深蓝色区域是距平均值小于一个标准差之内的数值范围。在正态分布中，此范围所占比率为全部数值之68% (大部分人落在这个区间 34.1*2=68%)，根据正态分布，两个标准差之内的比率合起来为95% ( (34.1+13.6)*2=95%)；三个标准差之内的比率合起来为99%; 之外的1%就是极端的人群。图片来源: [https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83) 
 
