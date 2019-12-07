@@ -17,29 +17,29 @@
 ---  C. Liao
 
 
-# [教育的本质定义](chapters/definition.md)
+1 [教育的定义和成功指标](chapters/definition.md)
 
-# [健康和安全](chapters/healthAndsafety.md)
+2 [健康和安全教育](chapters/healthAndsafety.md)
 
-# [从智商本质施行教育](chapters/educationOnIntelligence.md)
+3 [从智商本质施行教育](chapters/educationOnIntelligence.md)
 
-# [读书](chapters/readingBooks.md)
+4 [人的模型](chapters/modelOfHuman.md)
 
-# [人的模型](chapters/modelOfHuman.md)
+5 [做事的原则和技巧](chapters/algorithmOfDoingThings.md)
 
-# [做事的原则和技巧](chapters/algorithmOfDoingThings.md)
+6 [读书是学习模型和算法](chapters/readingBooks.md)
 
-# [公共演讲](chapters/publicSpeaking.md)
+7 [公共演讲的技巧](chapters/publicSpeaking.md)
 
-# [学英语](chapters/english.md)
+8 [英语的听说读写](chapters/english.md)
 
-# [时间管理](chapters/timeManagement.md)
+9 [时间管理](chapters/timeManagement.md)
 
-# [金钱](chapters/money.md)
+10 [金钱](chapters/money.md)
 
-# [其他杂谈](chapters/others.md)
+11 [其他杂谈](chapters/others.md)
 
-# [有用的一些链接](chapters/references.md)
+12 [参考文献](chapters/references.md)
 
 # 追求卓越，赋能他人
 
@@ -56,6 +56,8 @@
 # 特别感谢
 
 此聊天记录，源于表姐和她的闺蜜（谭姐）带上几个读大学或者快读大学的娃娃，与我在成都的聚会。非常感谢她们和我的交流，让我有机会系统化的总结我对教育的看法，提供各种反馈，并且鼓励我写出来。
+
+Thank Jason Lu
 
 
 # 欢迎打赏
