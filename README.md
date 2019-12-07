@@ -62,7 +62,7 @@ Thank Jason Lu
 
 # 欢迎打赏
 
-![alt_text](chapters/images/2019-11-29-Education-Chat-Liao2.jpg "image_tooltip")
+![alt_text](chapters/images/wechat-pay-Liao.jpg "image_tooltip")
 
 
 Or [paypal.me/liaoch](http://paypal.me/liaoch)
