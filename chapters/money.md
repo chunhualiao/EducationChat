@@ -19,7 +19,7 @@
 
 3. 扩大客户数量的规模：扩大客户规模有传统的线性增长（Linear growth）和现代基于互联网的指数型增长 (Exponential growh)两种差别很大的方式。指数型商业模式的介绍可以读 Exponential Organizations 《指数型组织:打造独角兽公司的11个最强属性》. 该书详细介绍了建立指数型企业的关键步骤。分析小米，阿里巴巴，优步，Airbnb， 谷歌等企业如何指数化自己的组织。
 
-![alt_text](images/growthcomparison.png "image_tooltip")
+![alt_text](images/Exponential.svg.png "image_tooltip")
 
 
 该图说明了指数增长（绿色）如何超过线性增长（红色）和幂增长（蓝色）。
