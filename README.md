@@ -17,29 +17,29 @@
 ---  C. Liao
 
 
-# [教育的本质定义](definition.md)
+# [教育的本质定义](chapters/definition.md)
 
-# [健康和安全](healthAndsafety.md)
+# [健康和安全](chapters/healthAndsafety.md)
 
-# [从智商本质施行教育](educationOnIntelligence.md)
+# [从智商本质施行教育](chapters/educationOnIntelligence.md)
 
-# [读书](readingBooks.md)
+# [读书](chapters/readingBooks.md)
 
-# [人的模型](modelOfHuman.md)
+# [人的模型](chapters/modelOfHuman.md)
 
-# [做事的原则和技巧](algorithmOfDoingThings.md)
+# [做事的原则和技巧](chapters/algorithmOfDoingThings.md)
 
-# [公共演讲](publicSpeaking.md)
+# [公共演讲](chapters/publicSpeaking.md)
 
-# [学英语](english.md)
+# [学英语](chapters/english.md)
 
-# [时间管理](timeManagement.md)
+# [时间管理](chapters/timeManagement.md)
 
-# [金钱](money.md)
+# [金钱](chapters/money.md)
 
-# [其他杂谈](others.md)
+# [其他杂谈](chapters/others.md)
 
-# [有用的一些链接](references.md)
+# [有用的一些链接](chapters/references.md)
 
 # 追求卓越，赋能他人
 
