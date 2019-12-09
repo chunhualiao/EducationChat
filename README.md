@@ -12,7 +12,7 @@
 
 <span style="text-decoration:underline;">免责声明 ：</span>聊天记录是个人见解，仅供参考，看了信了照着做，出了啥问题我概不负责哈。
 
-<span style="text-decoration:underline;">版权</span>：公共版权，欢迎转发。本文短链接 [https://tinyurl.com/liaochat](https://tinyurl.com/liaochat) , [https://bit.ly/2KPDdVR](https://bit.ly/2KPDdVR) 
+<span style="text-decoration:underline;">版权</span>：公共版权，欢迎转发。
 
 ---  C. Liao
 
