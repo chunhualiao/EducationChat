@@ -39,7 +39,9 @@
 
 11 [其他杂谈](chapters/others.md)
 
-12 [参考文献](chapters/references.md)
+12 [详解硅谷华人为什么拼不过印度人](chapters/limitationsOfChinese.md)
+
+13 [参考文献](chapters/references.md)
 
 # 追求卓越，赋能他人
 
