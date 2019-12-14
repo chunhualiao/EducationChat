@@ -87,6 +87,8 @@ Or [paypal.me/liaoch](http://paypal.me/liaoch)
 
 8. 没兴趣看育儿宝典
 
+9. 我补充一点，华人文化的内核既没有希腊 哲学，也没有罗马法制，更没有宗教的平等精神，这些都是现代文明的基石。  Ben 好像在这方面也颇有研究
+
 TODO:
 * 更好的标题： 人如企业，胜在管理。 做企业一样做人，优化算法一样优化管理
 * soften the text: peer-to peer communication, be humble
