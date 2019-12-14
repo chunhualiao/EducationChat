@@ -37,9 +37,9 @@
 
 10 [金钱](chapters/money.md)
 
-11 [其他杂谈](chapters/others.md)
+11 [详解硅谷华人为什么拼不过印度人](chapters/limitationsOfChinese.md)
 
-12 [详解硅谷华人为什么拼不过印度人](chapters/limitationsOfChinese.md)
+12 [其他杂谈](chapters/others.md)
 
 13 [参考文献](chapters/references.md)
 
