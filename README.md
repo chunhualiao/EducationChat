@@ -41,7 +41,9 @@
 
 12 [其他杂谈](chapters/others.md)
 
-13 [参考文献](chapters/references.md)
+13 [区分教育和洗脑](chapters/brainwash.md)
+
+14 [参考文献](chapters/references.md)
 
 # 追求卓越，赋能他人
 
