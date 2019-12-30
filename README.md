@@ -23,7 +23,8 @@
 
 3 [从智商本质施行教育](chapters/educationOnIntelligence.md)
 
-4 [人的模型](chapters/modelOfHuman.md)
+4 [初探人的模型](chapters/modelOfHuman.md)
+  * [再探人的模型](chapters/modelOfHuman2.md) 
 
 5 [做事的原则和技巧](chapters/algorithmOfDoingThings.md)
 
