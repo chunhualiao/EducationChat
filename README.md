@@ -21,8 +21,11 @@
 
 2 [健康和安全教育](chapters/healthAndsafety.md)
 
-3 [从智商本质施行教育](chapters/educationOnIntelligence.md)
-
+3 从智商本质施行教育
+  * [目标和学习](chapters/educationOnIntelligence.md)
+  * [建模感知和预测](chapters/educationOnIntelligence2.md)
+  * [决策](chapters/educationOnIntelligence3.md)
+  * [执行力](chapters/educationOnIntelligence4.md)
 4 [初探人的模型](chapters/modelOfHuman.md)
   * [再探人的模型](chapters/modelOfHuman2.md) 
 
