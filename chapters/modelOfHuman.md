@@ -77,7 +77,9 @@
 
 这个测试考察五个维度，包括经验开放性（Openness to experience）, 尽责性（Conscientiousness），外向性（Extraversion）, 和蔼亲和性（Agreeableness），情绪不稳定性（Neuroticism）。
 
-### DISC：这个测试考察四个维度：主导性Dominance (D), 影响力Influence (I), 稳定性Steadiness (S), and 尽责性Conscientiousness (C)。这四个维度的具体打分，组合出来有16个模式。不同的模式的人，有不同的动机，看重的东西，和人交往的方式等等。例如我自己测出来属于创造性模式。有如下的特点：
+### DISC
+
+这个测试考察四个维度：主导性Dominance (D), 影响力Influence (I), 稳定性Steadiness (S), and 尽责性Conscientiousness (C)。这四个维度的具体打分，组合出来有16个模式。不同的模式的人，有不同的动机，看重的东西，和人交往的方式等等。例如我自己测出来属于创造性模式。有如下的特点：
 * 个人追求的目标：支配地位，独特的成就。
 * 通过以下方式影响他人：加快系统开发和创新方法的能力。
 * 对组织的价值：发起或设计变更。
