@@ -1,18 +1,8 @@
-![alt_text](images/-0.jpg "image_tooltip")
-
-
-​2020年元旦假期，胡思乱想：自己对教育和自我提升这么感兴趣，一方面自己琢磨，另一方面更应该向最厉害的人学习他们的思维方式和做事方法。现代社会最常用的一个能力的指标就是个人创造和积累的财富，我很好奇有没有人已经调查研究过超级富豪的经验。网上一搜，美国2019年6月才出版了一本新书《The Billion Dollar Secret: 20 principles of billionaire wealth and success /十亿美元的秘密：十亿美元富翁的财富和成功的20个原则》。看amazon上的评论还行 （<span style="text-decoration:underline;">https://amzn.to/300x2os</span> ），就赶紧买了一本，趁着几天假期读完，写下这篇书评。
+2020年元旦假期，胡思乱想：自己对教育和自我提升这么感兴趣，一方面自己琢磨，另一方面更应该向最厉害的人学习他们的思维方式和做事方法。现代社会最常用的一个能力的指标就是个人创造和积累的财富，我很好奇有没有人已经调查研究过超级富豪的经验。网上一搜，美国2019年6月才出版了一本新书《The Billion Dollar Secret: 20 principles of billionaire wealth and success /十亿美元的秘密：十亿美元富翁的财富和成功的20个原则》。看amazon上的评论还行 （<span style="text-decoration:underline;">https://amzn.to/300x2os</span> ），就赶紧买了一本，趁着几天假期读完，写下这篇书评。
 
 **1. 成功学书籍的历史**
 
 只读完前言部分，我就学到了新东西，原来研究成功的人不是什么新鲜主意。1908年一个叫 Napoleon Hill (拿破仑•希尔)的人就已经尝试过。在钢铁大王安德鲁•卡内基的授意和资助下，希尔用了25年时间，访问了500多位美国最成功的商界和政界名流，包括 Andrew Carnegie（卡内基）, Henry Ford（亨利•福特）, Alexander Bell （亚历山大•贝尔 电话发明人）, Thomas Edision （爱迪生）等。他总结了一套完整的致富秘诀和成功哲学，写了两本书：《The Law of Success 成功的法则》和《Think and Grow Rich 思考致富》（<span style="text-decoration:underline;">https://amzn.to/35rvDbF</span>）。
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-1.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-1.jpg "image_tooltip")
 
 
 前一本是全本，后一本是浓缩版本。这两本书成了世界上成功学研究的鼻祖，畅销全世界。最终指导无数普通人实践书中的这些原理和法则，获得极大成功，使很多人成为了百万富翁。希尔由此被誉为“百万富翁的制造者”。我居然从来没听说过这个人和这本书，孤陋寡闻到了极点，难怪这么失败（为什么我们的语文课本里面不收录这些人和书的章节？）。马上小本本记下来，以后再读。
@@ -105,36 +95,46 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 这当然是以前从来没有人做过的事情，因为超级富豪都非常忙，要系统化的采访他们很不容易。最终经过5年的艰辛努力，作者成功的采访到了21个超级富豪，写成了这本书。这种敢为天下先的写书项目，我是非常钦佩的。
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-2.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-2.jpg "image_tooltip")
-
-
 书的正文有20章，对应总结的十亿美元富翁的20条原则。我列出原文和我自己的意译:
 
-
-
 1. It's Inside You 《你自己已经有了成功的所有要素》
+
 2. If You Want to Fly, First Leave the Nest 《想飞就先离开温暖的窝》
+
 3. Hungry Eagles Soar Higest 《饥饿的老鹰飞得最高》
+
 4. Build Your B.O.A.T. 《打造自己的船》。这里的船（BOAT）是几个单词的缩写：信仰/Belief ，乐观/Optimism，果断/Assertiveness，和自信/Trust.
+
 5. The Gold Digger's Trap 《追求金钱是个陷阱》
+
 6. The Six Skills of Business Mastery 《精通商业的六项技能》
+
 7. The Six Habits of Wealth 《财富的六个习惯》
+
 8. Sharpen Your Vision 《增强你的愿景》
+
 9. Don't Be the Flag, Be the Wind 《做风，而不是风中的旗帜》
+
 10. Be Bold or Be Broke 《要么大胆尝试，要么穷困潦倒》
+
 11. Stumble Forward 《跌跌撞撞的向前》
+
 12. Keep Fighting to Win 《坚持努力直到胜利》
+
 13. Do Not Conform 《绝不循规蹈矩》
+
 14. Outwork Them All with Passion 《用自己的热情，点燃比其他任何人更大的努力》
+
 15. Are You F.A.S.T.? 《你够快吗？》
+
 16. Be Smart with Money 《学会管理和使用金钱》
+
 17. Never stop Improving 《永远不停地提升自己》
+
 18. Live with Integrity 《正直地生活》
+
 19. Gratefully Give Back 《心怀感激地回报社会》
+
 20. Pay the Price 《付出应有的代价》
 
 **3. 重点章节点评**
@@ -142,13 +142,6 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 读完这本书，我发现经常有的章节里面还有更细的准则。所以书名说20原则有点误导。限于篇幅，我挑选几章点评一下，找出可操作的信息(Actionable Information)。想学如何让自己或者娃娃变成十亿美元成功人士的读者，可以拿出小本本准备记下要点了：
 
 **第一章：你自己已经有了成功的所有要素，外部条件无法限制你**
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-3.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-3.jpg "image_tooltip")
 
 
 再来点统计数据：全世界有2,200个十亿美元家产的超级富翁，平均下来每500万人中只有一个（0.0002%）。其中67%的超级富豪是白手起家的。富豪们通常有三种方式发家：1）发明新的产品（微软操作系统）2）创造新的服务（Airbnb）或者3）超级投资者（沃伦·巴菲特）。 完全靠打工，即使做到顶层，也很少进入十亿资产的俱乐部（苹果公司的CEO库克 $625.37 million资产）。 所以还是鼓励有志青年早日自己搞公司。
@@ -162,26 +155,11 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 **第二章: 想飞就先离开舒服的窝**
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-4.jpg "image_tooltip")
-
-
 所有的十亿美元富翁，都在18岁之前就开始工作了。很多13岁就帮助家里干活，养家糊口。他们也都是尽早开办自己的企业。这样有足够的时间在残酷的商场摸爬滚打，犯下足够的错误还能继续下去，直到成功。
 
 自己做老板的最大障碍是有一份好工作（舒适的窝）：好的工作有优厚的薪水，让人贷款买房养家，一个人就成了这种生活方式的奴隶，很难再跳出来自己做老板。超级富豪经常是自己找不到工作，或者是非常糟糕的雇员，或者受不了被人呼来喝去，没法做员工，只好做老板。
 
 **第三章：追求金钱是个陷阱**
-
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-5.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-5.jpg "image_tooltip")
-
 
 这一章比较有意思了。做到十亿美元资产的，开始可能是为了钱。但是钱到了一定程度，就是其他的动机在驱动他们了。
 
@@ -190,14 +168,6 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 如果一个人的目标是钱或者个人奢侈品，他在做到几百万，几千万，或者最多一亿美元就很可能会停下来享受，也很可能很快花光钱。超级富豪最初的动机还是为了摆脱贫困，为了钱。但是钱达到一定程度的时候，超级富豪们就改变了动机，找到持续做下去的动力。例如有的喜欢做大生意，喜欢商业竞争，喜欢自己的产品和服务让更多人享用，喜欢解决一个又一个艰难的商业问题。
 
 **第六章：商业精通的六项技能**
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-6.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-6.jpg "image_tooltip")
-
 
 这章比较有干货，要成为十亿美元富豪，到底要掌握哪些核心技能呢？是华人一窝蜂推娃的数学，钢琴，编程，游泳吗？还是有其他？
 
@@ -215,17 +185,8 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 
 读了这一章，发现华人培养娃娃还是缺了大部分要素，基本是在打磨个人技能，把娃娃培养成一块金光闪闪的砖。我们的传统教育中没有关于人性，沟通，销售，团队合作，领导力的培养。例如几个华人家长舍得让自己的宝贝一大早去送报纸？挨家挨户敲门去卖东西的？
 
-       
 
 **第七章：财富的六个习惯**
-
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-7.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-7.jpg "image_tooltip")
-
 
 这一章也是干货。开篇就是巴菲特的名言 “The chains of habits are too light to be felt until they are too heavy to be broken” 我的翻译是“习惯的枷锁，开始轻得你体会不到，到你体会到的时候已经积习难返了。” 好了，睁大眼睛，具体看看白手打造十亿美元的资产，需要哪七个习惯：
 
@@ -244,26 +205,11 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 **第九章：做风，而不是风中的旗帜**
 
 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-8.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-8.jpg "image_tooltip")
-
-
 看到这章的标题，我就想起了小米创始人雷军的名言: “创业，就是要做一头站在风口上的猪，风口站对了，猪也可以飞起来。”  这本书采访的富豪的经验是：要做雷军名言中的风， 而不是其中的猪。这章内容很杂乱，各种鸡汤混在一起：要行动，要认准和抓住机会，要快而不要追求完美，要立足现有的资源（想方设法卖你自己手中有的草莓，即使你的草莓有各种缺点和不足），不要跟风要跟从自己的内心追求。
 
 这一章我感触最深的是：卖你手中有的草莓 (Sell the Strawberries You Have)。很多人不开始自己的企业，就是担心自己手中的草莓不够好。作者采访的一个富豪Peter Stordalen，北欧最大连锁宾馆的创始人，开始也是这么认为，但是他的父亲语重心长的启发他：你只能从卖自己有的草莓开始做生意。Peter听了后就开窍了，从售后服务，对客人的热情度，差异化竞争。即使自己的草莓不如别人，摊位很破很小，一样的把自己的草莓一盒盒的卖了出去。有了这种立足现有，不纠结缺陷，挖掘差异化优势的思维方式，他把自己的生意越做越大。所以这一章我觉得最大亮点就是这个卖你有的草莓的理论 (Strawberry Philosophy)。
 
 **第十四章：用自己的热情，点燃比其他任何人更多的努力**
-
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-9.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-9.jpg "image_tooltip")
-
 
 很多人都可以想象普通成功人士如何努力的。那从零开始做到十亿美元资产，要多努力呢？这一章就是回答这个问题的。
 
@@ -271,13 +217,16 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 
 据银行业人士的观察，在各种客户中，经商的人总体在智商上并不是最高，但是他们更有冒险精神。富豪们大部分不相信自己比其他人聪明，只相信更多的努力才能让自己胜出。到底多努力？我们来看看：
 
-
-
 1. ABW：Always Be Working 永远在工作。 很多富豪说创业的前20-30年都是除了吃饭睡觉就是工作，没有假期和周末。典型的数据是：平时经常一天工作18小时，周末工作8小时。书中采访的一个富豪，Frank Hasenfratz，说，我每天只工作半天，从早上7点到晚上7点。
+
 2. ABB：Always Be Busy 居安思危，商业和体育竞技一样，天天都要有进步。
+
 3. 勇于做应该做的困难的事，而不是弯道超车。富豪们成功就是因为他们解决了最困难的问题。
+
 4. 勤奋和坚韧的关键是热情。做到顶级的努力，没有顶级的真正的热情没法持续。如何找自己的热情的一个方法：假设你已经有了十亿美元，圆满的家庭，和其他常人梦想的任何东西之后，你还想做什么？ 答案就是你的真正的热情。
+
 5. 享受过程，而不是只看结果。
+
 6. 如果不享受过程，就早日下火车（换目标）。
 
 **4. 结束语**
@@ -291,8 +240,6 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 值得一提的信息：书中多次提到的World Entrepreneur of the Year Awards 《世界年度最佳企业家奖》是从2001年开始的，在摩洛哥召开。曹德旺是唯一一个获奖的中国企业家 （来源：https://www.ey.com/en_us/weoy/past-winners ）。
 
 最后再次给出本文提到的几本书的亚马逊链接 。有兴趣的可以看看（声明：链接有Amazon Affiliation Program，回扣全部直接捐赠给501(c)3公益组织：SVCA基金会）。 
-
-
 
 *   The Billion Dollar Secret: <span style="text-decoration:underline;">https://amzn.to/300x2os</span> 
 *   The Law of Success: <span style="text-decoration:underline;">https://amzn.to/2Qt3igw</span>
