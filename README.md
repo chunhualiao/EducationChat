@@ -48,6 +48,7 @@
  * [书评:《十亿美元的秘密》](chapters/bookReview-billionDollarSecret.md)
  * [区分教育和洗脑](chapters/brainwash.md)
  * [详解硅谷华人为什么拼不过印度人](chapters/limitationsOfChinese.md)
+ * [我最想做啥？](chapters/whatIWant.md)
  
 14 [参考文献](chapters/references.md)
 
