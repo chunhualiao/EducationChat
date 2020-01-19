@@ -239,7 +239,7 @@ https://dqydj.com/net-worth-brackets-wealth-brackets-one-percent/ 题外话：�
 
 值得一提的信息：书中多次提到的World Entrepreneur of the Year Awards 《世界年度最佳企业家奖》是从2001年开始的，在摩洛哥召开。曹德旺是唯一一个获奖的中国企业家 （来源：https://www.ey.com/en_us/weoy/past-winners ）。
 
-最后再次给出本文提到的几本书的亚马逊链接 。有兴趣的可以看看（声明：链接有Amazon Affiliation Program，回扣全部直接捐赠给501(c)3公益组织：SVCA基金会）。 
+最后再次给出本文提到的几本书的亚马逊链接，有兴趣的可以看看。 
 
 *   The Billion Dollar Secret: <span style="text-decoration:underline;">https://amzn.to/300x2os</span> 
 *   The Law of Success: <span style="text-decoration:underline;">https://amzn.to/2Qt3igw</span>
