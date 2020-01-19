@@ -18,6 +18,7 @@
 
 
 1 [教育的定义和成功指标](chapters/definition.md)
+  * [探讨一个人应该达到的目标](chapters/goalsOfEducation.md)
 
 2 [健康和安全教育](chapters/healthAndsafety.md)
 
