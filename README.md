@@ -44,12 +44,11 @@
 
 10 [金钱](chapters/money.md)
 
-11 [详解硅谷华人为什么拼不过印度人](chapters/limitationsOfChinese.md)
-
-12 [其他杂谈](chapters/others.md)
-
-13 [区分教育和洗脑](chapters/brainwash.md)
-
+11 [其他杂谈](chapters/others.md)
+ * [书评:《十亿美元的秘密》](chapters/bookReview-billionDollarSecret.md)
+ * [区分教育和洗脑](chapters/brainwash.md)
+ * [详解硅谷华人为什么拼不过印度人](chapters/limitationsOfChinese.md)
+ 
 14 [参考文献](chapters/references.md)
 
 # 追求卓越，赋能他人
@@ -61,7 +60,6 @@
 *   赋能他人是对周围的任何靠谱的人都持服务心态（自己是一个企业，别人都是衣食父母，自己的客户），互助心态，让他人也可以最大程度的提升和成功。 
 
 这样的心态去生活和工作，可以在自己身边创造一个共赢的周边环境，自己和他人都能最大效率的创造价值。最后水涨船高，自己也很容易最后受益。
-
 
 
 # 特别感谢
