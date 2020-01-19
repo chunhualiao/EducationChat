@@ -28,7 +28,7 @@
   * [执行力](chapters/educationOnIntelligence4.md)
 
 4 人的模型
-  * [初探人的模型](chapters/modelOfHuman.md)
+  * [初探人的模型:维度，分布和测试](chapters/modelOfHuman.md)
   * [再探人的模型](chapters/modelOfHuman2.md) 
   * [每个人都是个微型的企业](chapters/modelOfPersonCorporation.md)
 
