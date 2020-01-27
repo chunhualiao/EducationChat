@@ -39,6 +39,7 @@
 6 [读书是学习模型和算法](chapters/readingBooks.md)
 
 7 [公共演讲的技巧](chapters/publicSpeaking.md)
+  * [书评《Speak With No Fear/毫不畏惧地演讲》](chapters/reviewSpeakWithNoFear.md)
 
 8 [英语的听说读写](chapters/english.md)
 
