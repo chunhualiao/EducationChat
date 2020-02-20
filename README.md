@@ -30,6 +30,7 @@
 
 4 人的模型
   * [初探人的模型:维度，分布和测试](chapters/modelOfHuman.md)
+  * [认知偏差](chapters/cognitiveBiases.md)
   * [再探人的模型](chapters/modelOfHuman2.md) 
   * [每个人都是个微型的企业](chapters/modelOfPersonCorporation.md)
   * [建设性批评](chapters/constructiveCriticism.md)
