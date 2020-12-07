@@ -87,6 +87,7 @@
 其他个人管理和规划的书籍
 *   《把时间当朋友》,  国产的通俗易懂的个人管理的比较全面的书籍，有些细节值得推敲，但是总体大方向是对的。
 *   《原则》 principles。世界上最成功的对冲基金创立者 雷·达里奥 (Ray Dalio) 对生活和工作原则的算法型分析，这本书有更具体实施的细节。金融界真金白银操作，白手起家的创业者实战的经验总结，很有信服力。我是写完这篇聊天记录，补充第三方读书笔记的时候才发现这本美国2017年出版的畅销书。
+*  Algorithms to Live By: The Computer Science of Human Decisions: A fascinating exploration of how insights from computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mind. 
 
 企业管理：很多人说我自己不做企业，不做企业中的领导。所以就不该读企业管理的书籍了。我以前也这么以为，发现大错特错了！即使是做个小兵，理解所处的大环境的工作流程，了解高层如何管理评估下级，如何定升职加薪的，也非常有益处。
 *   《卓有成效的管理者》 （The Effective Executive）管理学大师德鲁克的经典名作。值得细细品读。读了你会发现，管理企业和自我管理真的是相通的，例如要事优先，把握时间，思考自己的独特贡献，用人的长处，有效决策。
